@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPSApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_api_key">AIzaSyC0QLUUihhmLzu5qqMTUkHSP6xSDYDaebY</string>
+</resources>
